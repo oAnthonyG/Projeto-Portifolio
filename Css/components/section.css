@@ -1,0 +1,10 @@
+.section{
+    background-color: #7C5E99;
+    height: 783px;
+}
+
+
+#imagens{
+    display: flex;
+    justify-content: space-around;
+}
