@@ -34,3 +34,13 @@ h2.tittle2{
     text-shadow:  4px 4px 0px #000;
     margin: 0px;
 }
+.subtitle{
+    display: flex;
+    justify-content: center;
+    padding-top: 33px;
+    padding-bottom: 33px;
+    font-size: 35px;
+    font-family: "Press Start 2P", sans-serif;
+    text-shadow: 3px 3px 0px #000;
+    color: #FFF;
+}
