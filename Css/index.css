@@ -69,6 +69,5 @@ section.fundo{
     background-image: url(../Imagens/thumb-1920-548279\ 1.png);
     height: 100vh;
     width: 100%;
-    background-repeat: no-repeat;
     border-bottom: 10px solid #000;
 }
